@@ -14,7 +14,7 @@
 
 
     <TextView
-
+        android:id="@+id/personal_info_page"
         android:layout_width="match_parent"
 
         android:layout_height="wrap_content"
@@ -24,11 +24,36 @@
 
         android:text="Personal Info Page"> </TextView>
 
-    <EditText
-        android:layout_width="244dp"
-        android:layout_height="131dp"
-        android:layout_marginEnd="10dp"
-        android:layout_marginStart="10dp"
-        android:hint="Please type your name" />
+    <TextView
+        android:id="@+id/name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:gravity="center"
+        android:text="Nom : Vanessa"> </TextView>
+    <TextView
+        android:id="@+id/adress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:gravity="center"
+        android:text="Adresse : Rue du Général Popov, 26, 1000, Bruxelles"> </TextView>
+    <TextView
+        android:id="@+id/region"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:gravity="center"
+        android:text="Région d'activités : Bruxelles"> </TextView>
+    <TextView
+        android:id="@+id/skills"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="top"
+        android:gravity="center"
+        android:text="Domaine(s) de compétence : finances"> </TextView>
+
+
+
 
 </LinearLayout>
