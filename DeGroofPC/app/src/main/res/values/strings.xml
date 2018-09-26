@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DeGroofPC</string>
+    <string name="message_text">Test texte pour la page mission yoyYOYOOOO!</string>
+    <string name="input_password">Password</string>
+    <string name="input_text">Email</string>
+    <string name="input_connexion">Log In</string>
+    <string name="mission_default_name">Mission name</string>
+    <string name="mission_details">Adresse</string>
+</resources>
