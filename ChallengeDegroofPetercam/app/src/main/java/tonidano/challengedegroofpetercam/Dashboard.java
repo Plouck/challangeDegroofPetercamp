@@ -16,7 +16,7 @@ import com.google.android.gms.tasks.Task;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
-public class DashBoard extends AppCompatActivity implements View.OnClickListener {
+class DashBoard extends AppCompatActivity implements View.OnClickListener {
 
     private TextView txtWelcome;
     private EditText input_new_password;

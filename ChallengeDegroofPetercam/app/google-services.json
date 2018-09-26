@@ -23,6 +23,14 @@
           }
         },
         {
+          "client_id": "615325531545-h8e26eisn53mp96cfhn9qo7234e4uef6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tonidano.challengedegroofpetercam",
+            "certificate_hash": "8ebd0ddea2ee9fd58e4814144931e7bfc193b279"
+          }
+        },
+        {
           "client_id": "615325531545-6ss910jgheqqq3n8820rmpj4h4g1628u.apps.googleusercontent.com",
           "client_type": 3
         }
