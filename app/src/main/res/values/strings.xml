@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Page de profil</string>
+    <string name="name_text">Hakan Poyraz</string>
+    <string name="address_text">Region : Brussel</string>
+    <string name="skills_text">Skills : accounting, marketing </string>
+    <string name="hours_text">Remaining hours : 12 </string>
+</resources>
