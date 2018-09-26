@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "615325531545-albo4vam40laitjt741kikd6ak46fi23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tonidano.challengedegroofpetercam",
+            "certificate_hash": "567b689624ef5f70fdc0efcb32af85247b63cd4f"
+          }
+        },
+        {
           "client_id": "615325531545-6ss910jgheqqq3n8820rmpj4h4g1628u.apps.googleusercontent.com",
           "client_type": 3
         }
@@ -29,8 +37,13 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "615325531545-6ss910jgheqqq3n8820rmpj4h4g1628u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         },
         "ads_service": {
           "status": 2
