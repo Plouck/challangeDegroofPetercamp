@@ -6,7 +6,7 @@
 
 *_frontend_*: *Colombe Sechehaye, Jean-François Geerinx*.
 
-*_backend_*: *Anthony Dalle Nogare, Ajay Shinde, Hakan Poyraz*.
+*_backend_*: *Antoni Dalle Nogare, Ajay Shinde, Hakan Poyraz*.
 
 **Technos utilisées**: _Java_. 
 
