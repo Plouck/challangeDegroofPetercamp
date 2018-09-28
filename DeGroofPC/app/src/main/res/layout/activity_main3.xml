@@ -30,5 +30,5 @@
             android:text="@string/mission_details"
             android:layout_below="@id/mission_name"/>
     </RelativeLayout>
-    
+
 </LinearLayout>

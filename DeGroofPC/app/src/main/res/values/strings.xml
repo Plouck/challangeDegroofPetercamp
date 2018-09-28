@@ -1,9 +1,12 @@
 <resources>
-    <string name="app_name">DeGroofPC</string>
-    <string name="message_text">Test texte pour la page mission yoyYOYOOOO!</string>
-    <string name="input_password">Password</string>
-    <string name="input_text">Email</string>
+    <string name="app_name">DeGroofPeterCam App</string>
+    <string name="activity1">Activity 1</string>
+    <string name="activity2">Activity 2</string>
+    <string name="button">Go on Activity 2</string>
+    <string name="button2">Go on Activity </string>
     <string name="input_connexion">Log In</string>
+    <string name="email">Email</string>
+    <string name="pass">Password</string>
     <string name="mission_default_name">Mission name</string>
     <string name="mission_details">Adresse</string>
 </resources>

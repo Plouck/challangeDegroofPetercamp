@@ -3,8 +3,8 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 28
     defaultConfig {
-        applicationId "be.degroofpetercam.degroofpc"
-        minSdkVersion 16
+        applicationId "be.example.degroofpetercam.degroofpetercamapp"
+        minSdkVersion 15
         targetSdkVersion 28
         versionCode 1
         versionName "1.0"

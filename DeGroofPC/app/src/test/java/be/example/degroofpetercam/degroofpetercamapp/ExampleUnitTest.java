@@ -1,4 +1,4 @@
-package be.degroofpetercam.degroofpc;
+package be.example.degroofpetercam.degroofpetercamapp;
 
 import org.junit.Test;
 

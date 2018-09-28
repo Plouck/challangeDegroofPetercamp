@@ -1,4 +1,4 @@
-package be.degroofpetercam.degroofpc;
+package be.example.degroofpetercam.degroofpetercamapp;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("be.degroofpetercam.degroofpc", appContext.getPackageName());
+        assertEquals("be.example.degroofpetercam.degroofpetercamapp", appContext.getPackageName());
     }
 }
