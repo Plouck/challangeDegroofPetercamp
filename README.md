@@ -49,4 +49,4 @@ A la fin de la mission, le volontaire pourra compléter une "*_After mission pag
 3.  Introduiser votre email, cliquer sur "Submit"
 4.  Ouvrer votre messagerie email et cliquer sur le lien envoyer via email 
 5.  Sur la page de lien, introduiser le nouveau mot de passe, confirmer le 
-6.  Vous pouvez maintenant vous loger avec votre nouveau mot de passe
+6.  Vous pouvez maintenant vous connecter sur l'APK avec votre nouveau mot de passe
