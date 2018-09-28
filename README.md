@@ -39,4 +39,11 @@ A la fin de la mission, le volontaire pourra compléter une "*_After mission pag
 7. Validation confirmé et envoyé sur l'inbox sur l'APK 
 8. Cliquer sur la confirmation pour afficher les détails du projet 
 9. Choisir une date de prestation 
-10. En cas d'oublis de login, on envois son email pour recevoir un nouveau login
+
+## Oubli de mot de passe
+
+1. Lancer l'APK
+2. Cliquer sur "Forgot Password"
+3. Introduiser votre email, cliquer sur "Submit"
+4. Ouvrer votre messagerie email et cliquer sur le lien envoyer via email 
+5. Sur la page de lien, introduiser le nouveau mot de passe, confirmer le 
