@@ -27,3 +27,16 @@ Une fois le formulaire rempli et le projet choisi, un mail est envoyé à la per
 
 A la fin de la mission, le volontaire pourra compléter une "*_After mission page_*", celle ci sert a commenter l'expérience vécue et a évaluer la mission avec un système sur 5 coeurs ou étoiles.
 
+
+# Manuel d'utilisation 
+
+1. Télécharger l'APK via [lien](http://example.net/) (pas encore déployé)
+2. Installer l'APK sur Android
+3. Lancer l'APK 
+4. S'identifier 
+5. Choisir son projet 
+6. Attendre la validation de son projet
+7. Validation confirmé et envoyé sur l'inbox sur l'APK 
+8. Cliquer sur la confirmation pour afficher les détails du projet 
+9. Choisir une date de prestation 
+10. En cas d'oublis de login, on envois son email pour recevoir un nouveau login
